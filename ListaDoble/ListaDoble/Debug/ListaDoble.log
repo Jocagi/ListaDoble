@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  ListaDoble.cpp
+  Generating Code...
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ListaDoble.vcxproj -> C:\Users\user\Desktop\ListaDoble\ListaDoble\Debug\ListaDoble.exe
+  ListaDoble.vcxproj -> C:\Users\user\Desktop\ListaDoble\ListaDoble\Debug\ListaDoble.pdb (Partial PDB)
